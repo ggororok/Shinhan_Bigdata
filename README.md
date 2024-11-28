@@ -1,4 +1,4 @@
-<h1 align="center"> 신한그룹 빅데이터 해커톤 (제 3회) </h1>
+<h1 align="center"> <img src="https://github.com/user-attachments/assets/7a995d42-4cf1-48c3-9d14-dda8c142a24c"> 신한그룹 빅데이터 해커톤 (제 3회) </h1>
 <div align="center"> <img src="https://github.com/user-attachments/assets/0b11ed63-fa4b-42d6-b2cd-ca6f71c20433" alt="메인이미지" width="900"> </div>
 </br>
 </br>
