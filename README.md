@@ -1,7 +1,6 @@
 <h1 align="center"> <img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="30" height="30"> 신한그룹 빅데이터 해커톤 (제 3회) </h1>
 <div align="center"> <img src="https://github.com/user-attachments/assets/0b11ed63-fa4b-42d6-b2cd-ca6f71c20433" alt="메인이미지" width="900"> </div>
 </br>
-</br>
 
 ## <img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="23" height="23"> 주제: 건강을 더하다 +he(the) 건강 서비스
 
