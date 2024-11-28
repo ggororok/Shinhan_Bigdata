@@ -3,7 +3,7 @@
 </br>
 </br>
 
-## 주제: 건강을 더하다 +he(the) 건강 서비스
+## <img src="https://github.com/user-attachments/assets/09a9e704-12f4-4fdc-aa73-a921de5e9432" alt="신한마크" width="32" height="32"> 주제: 건강을 더하다 +he(the) 건강 서비스
 
 **개발기간** </br>
  - 2024-10-07 ~ 2024-11-21
