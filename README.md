@@ -3,10 +3,13 @@
 </br>
 </br>
 
-## 🤖 주제: RAG를 활용한 보험문서 챗봇 만들기 프로젝트
+## 주제: RAG를 활용한 보험문서 챗봇 만들기 프로젝트
 
-**참여기간**  </br>
-24.09.02~12.15 </br>
+### 📅 개발 기간
+***
+ - 2024-11-18 ~ 2024-11-21
+<br>
+
 
 **참여인원**  </br>
 
@@ -53,10 +56,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;<br>
 <br>
 
-### 📅 개발 기간
-***
- - 2023-11-18 ~ 2024-01-27
-<br>
+
 
 ### 📌 구현 과정
 
